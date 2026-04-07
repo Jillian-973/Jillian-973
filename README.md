@@ -1,9 +1,11 @@
-# 👋 Hello, moi c’est Jillian
+# 👋 Moi c’est Killian
 
 💻 Développeur web passionné, j’aime créer des applications utiles et performantes.
 ✨ Toujours en train d’apprendre et de relever de nouveaux défis !
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/killian-entertainment/)
+<a href="https://www.linkedin.com/feed/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 ---
 
@@ -36,6 +38,7 @@
 ![Express](https://img.shields.io/badge/Express.js-%23000000?style=for-the-badge\&logo=express)
 ![Symfony](https://img.shields.io/badge/Symfony-%23000000?style=for-the-badge\&logo=symfony)
 ![Prisma](https://img.shields.io/badge/Prisma-%23000000?style=for-the-badge\&logo=prisma)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
 
 ---
 
@@ -65,11 +68,21 @@
 
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9?style=for-the-badge\&logo=wordpress\&logoColor=white)
 ![PrestaShop](https://img.shields.io/badge/PrestaShop-%23DF0067?style=for-the-badge)
+![Elementor](https://img.shields.io/badge/Elementor-%2392003B?style=for-the-badge\&logo=elementor\&logoColor=white)
+![WampServer](https://img.shields.io/badge/WampServer-%23FF0000?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge\&logo=github)
 
 ---
 
+## 📊 Stats GitHub
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME\&show_icons=true\&theme=radical)
+
+---
+
 ## ✨ Fun fact
 
-⚡  Je me sens un peu comme un magicien… Mais avec du code et sans la cape !
+⚡ Je me sens un peu comme un magicien… Mais avec du code et sans la cape !
+
