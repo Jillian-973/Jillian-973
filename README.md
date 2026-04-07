@@ -1,5 +1,6 @@
-# 👤 Moi c’est Killian
-
+```
+Je me sens un peu comme un magicien… Mais avec du code et sans la cape !
+```
 💻 Développeur web passionné, j’aime créer des applications utiles et performantes. <br>
 ✨ Toujours en train d’apprendre et de relever de nouveaux défis !
 
@@ -64,9 +65,4 @@
 ![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge\&logo=github)
 
----
-
-## ✨ Fun fact
-
-⚡ Je me sens un peu comme un magicien… Mais avec du code et sans la cape !
 
