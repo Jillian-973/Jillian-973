@@ -3,7 +3,7 @@
 💻 Développeur web passionné, j’aime créer des applications utiles et performantes.
 ✨ Toujours en train d’apprendre et de relever de nouveaux défis !
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white](https://www.linkedin.com/in/killian-entertainment/))]
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white](https://www.linkedin.com/in/killian-entertainment/)]
 
 ---
 
@@ -67,12 +67,6 @@
 ![PrestaShop](https://img.shields.io/badge/PrestaShop-%23DF0067?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge\&logo=github)
-
----
-
-## 📊 Stats GitHub
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME\&show_icons=true\&theme=radical)
 
 ---
 
