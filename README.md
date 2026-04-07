@@ -35,9 +35,9 @@
 ### ⚙️ Frameworks & Librairies & Backend
 
 ![React](https://img.shields.io/badge/React-%23000000?style=for-the-badge\&logo=react)
+![Symfony](https://img.shields.io/badge/Symfony-%23000000?style=for-the-badge\&logo=symfony)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge\&logo=node.js\&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-%23000000?style=for-the-badge\&logo=express)
-![Symfony](https://img.shields.io/badge/Symfony-%23000000?style=for-the-badge\&logo=symfony)
 ![Prisma](https://img.shields.io/badge/Prisma-%23000000?style=for-the-badge\&logo=prisma)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300758F?style=for-the-badge\&logo=mysql\&logoColor=white)
@@ -63,12 +63,6 @@
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge\&logo=github)
-
----
-
-## 📊 Stats GitHub
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME\&show_icons=true\&theme=radical)
 
 ---
 
