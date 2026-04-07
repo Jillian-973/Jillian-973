@@ -1,4 +1,4 @@
-# 👋 Moi c’est Killian
+# 👤 Moi c’est Killian
 
 💻 Développeur web passionné, j’aime créer des applications utiles et performantes. <br>
 ✨ Toujours en train d’apprendre et de relever de nouveaux défis !
@@ -11,8 +11,8 @@
 
 ## 🚀 À propos de moi
 
-* 🌱 En constante progression en développement web
-* 💡 Intéressé par le full-stack et le développement d’applications
+* 🌳 En constante progression en développement web
+* ⚡ Intéressé par le full-stack et le développement d’applications
 * 🎯 Objectif : devenir développeur full-stack
 * 📍 Basé en France
 
