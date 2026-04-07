@@ -1,6 +1,6 @@
 # 👋 Moi c’est Killian
 
-💻 Développeur web passionné, j’aime créer des applications utiles et performantes.
+💻 Développeur web passionné, j’aime créer des applications utiles et performantes. <br>
 ✨ Toujours en train d’apprendre et de relever de nouveaux défis !
 
 <a href="https://www.linkedin.com/feed/" target="_blank">
