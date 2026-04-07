@@ -28,10 +28,11 @@
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge\&logo=php\&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239120?style=for-the-badge\&logo=csharp\&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-%23CC6699?style=for-the-badge\&logo=sass\&logoColor=white)
 
 ---
 
-### ⚙️ Frameworks & Librairies
+### ⚙️ Frameworks & Librairies & Backend
 
 ![React](https://img.shields.io/badge/React-%23000000?style=for-the-badge\&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge\&logo=node.js\&logoColor=white)
@@ -39,21 +40,10 @@
 ![Symfony](https://img.shields.io/badge/Symfony-%23000000?style=for-the-badge\&logo=symfony)
 ![Prisma](https://img.shields.io/badge/Prisma-%23000000?style=for-the-badge\&logo=prisma)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-
----
-
-### 🗄️ Base de données & Backend
-
 ![MySQL](https://img.shields.io/badge/MySQL-%2300758F?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-%2300C7B7?style=for-the-badge\&logo=supabase\&logoColor=white)
 ![NeonDB](https://img.shields.io/badge/NeonDB-%2300E599?style=for-the-badge)
-
----
-
-### 🎨 Front & Styling
-
-![SCSS](https://img.shields.io/badge/SCSS-%23CC6699?style=for-the-badge\&logo=sass\&logoColor=white)
 
 ---
 
