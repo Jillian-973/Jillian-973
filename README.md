@@ -3,7 +3,7 @@
 💻 Développeur web passionné, j’aime créer des applications utiles et performantes.
 ✨ Toujours en train d’apprendre et de relever de nouveaux défis !
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white](https://www.linkedin.com/in/killian-entertainment/)]
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/killian-entertainment/)
 
 ---
 
