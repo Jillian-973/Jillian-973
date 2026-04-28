@@ -37,14 +37,14 @@ Je me sens un peu comme un magicien… Mais avec du code et sans la cape !
 
 ![React](https://img.shields.io/badge/React-%23000000?style=for-the-badge\&logo=react)
 ![Symfony](https://img.shields.io/badge/Symfony-%23000000?style=for-the-badge\&logo=symfony)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge\&logo=node.js\&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-%23000000?style=for-the-badge\&logo=express)
 ![Prisma](https://img.shields.io/badge/Prisma-%23000000?style=for-the-badge\&logo=prisma)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300758F?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge\&logo=node.js\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300758F?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-%2300C7B7?style=for-the-badge\&logo=supabase\&logoColor=white)
 ![NeonDB](https://img.shields.io/badge/NeonDB-%2300E599?style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
 
 ---
 
@@ -58,8 +58,8 @@ Je me sens un peu comme un magicien… Mais avec du code et sans la cape !
 ### 🛠️ CMS & Outils
 
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9?style=for-the-badge\&logo=wordpress\&logoColor=white)
-![PrestaShop](https://img.shields.io/badge/PrestaShop-%23DF0067?style=for-the-badge)
 ![Elementor](https://img.shields.io/badge/Elementor-%2392003B?style=for-the-badge\&logo=elementor\&logoColor=white)
+![PrestaShop](https://img.shields.io/badge/PrestaShop-%23DF0067?style=for-the-badge)
 ![WampServer](https://img.shields.io/badge/WampServer-%23FF0000?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge\&logo=git\&logoColor=white)
